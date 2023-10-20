@@ -1,9 +1,0 @@
-{
-  "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-exec": "^5.0.0",
-    "gulp-open": "^3.0.1",
-    "gulp-run": "^1.7.1",
-    "gulp-webserver": "^0.9.1"
-  }
-}
