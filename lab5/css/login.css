@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(rgb(0, 0, 0), rgb(116, 20, 171));
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form {
+    max-width: 500px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+label, input, select, textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.submit-button-container {
+    text-align: center; 
+
+    padding: 10px; 
+}
+
+.submit-button {
+    background-color: rgb(90, 45, 167); 
+    color: #fff; 
+    font-size: 18px; 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer; 
+    border-radius: 5px; 
+}
